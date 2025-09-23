@@ -1,7 +1,7 @@
 # LocalizationKotlinTutorial
 
 
-
+```kotlin
 
 Programatically localization call above setContentview(R.layout.activitymain)
  
@@ -14,7 +14,7 @@ public static void setLocale(Activity activity, String languageCode) {
         resources.updateConfiguration(config, resources.getDisplayMetrics());
     }
     
-    
+```    
     
     
     
